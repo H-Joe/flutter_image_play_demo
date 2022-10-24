@@ -1,0 +1,34 @@
+{
+  "hyperNodes": [
+    {
+      "imagePath": "camera",
+      "publishTime": "2022-09-10 12:03",
+      "publishPlatform": "iOS"
+    },
+    {
+      "imagePath": "dog",
+      "publishTime": "2022-09-10 12:03",
+      "publishPlatform": "iOS"
+    },
+    {
+      "imagePath": "food",
+      "publishTime": "2022-09-10 12:03",
+      "publishPlatform": "Android"
+    },
+    {
+      "imagePath": "pumpkin",
+      "publishTime": "2022-09-10 12:03",
+      "publishPlatform": "iOS"
+    },
+    {
+      "imagePath": "food",
+      "publishTime": "2022-09-10 12:03",
+      "publishPlatform": "Android"
+    },
+    {
+      "imagePath": "camera",
+      "publishTime": "2022-09-10 12:03",
+      "publishPlatform": "Android"
+    }
+  ]
+}
